@@ -1,0 +1,6 @@
+{
+  "name": "Yearly Herald",
+  "description": "Herald of the Slayer Corps. Parses schedules from scrolls and conversational fragments into tactical mission maps and preparation loot lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
